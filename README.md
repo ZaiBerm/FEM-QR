@@ -12,7 +12,7 @@
 ## Overview
 
   Hello visitors, I created this github repo to help me practice and showcase my not so refined html and css skill
-  By doing a simple responsive QR code panel, i hope that you get a grasp of my current front end skills.
+  By doing a simple responsive QR code panel, i hope that you get a grasp of my current front end skills and point out to me what i lack.
 
 ### Screenshot
 
